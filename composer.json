@@ -1,6 +1,6 @@
 {
     "name": "germania-kg/mailchimp-helpers",
-    "description": "Localisation interfaces, classes and factory",
+    "description": "Stuff that helps us with Mailchimp API",
     "type": "library",
     "license": "MIT",
     "authors": [
